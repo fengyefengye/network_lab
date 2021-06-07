@@ -4,3 +4,6 @@
 [submodule "TJU2440130_RDT"]
 	path = TJU2440130_RDT
 	url = git@github.com:geniusLcy/TJU2440130_RDT.git
+[submodule "TJU2440130_Routing"]
+	path = TJU2440130_Routing
+	url = git@github.com:geniusLcy/TJU2440130_Routing.git
