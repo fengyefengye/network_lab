@@ -1,3 +1,6 @@
 [submodule "TJU2440130_network_exp_Chatroom"]
 	path = TJU2440130_network_exp_Chatroom
 	url = git@github.com:geniusLcy/TJU2440130_network_exp_Chatroom.git
+[submodule "TJU2440130_RDT"]
+	path = TJU2440130_RDT
+	url = git@github.com:geniusLcy/TJU2440130_RDT.git
